@@ -9,7 +9,7 @@ inline bool checkSym(short l, short r) {
 }
 int main() {
 	// We go from the center to the right side, because we can't attach a string to the left, and for every middle position wich is stored
-	// at the same time in 'l' and 'r' for composing even and odd palindromes in one cycle, we check symmetry with checkSym() by a simple bruteforce, 
+	// at the same time in 'l' and 'r' for combining even and odd palindromes in one cycle, we check symmetry with checkSym() by a simple bruteforce, 
 	// wich also goes from the center to palindromes sides (could also go from sides to the center, but we should find the longest one), and that's 
 	// how we know if it's a palindrome. Note that distance between 'l' and 'r' is either 1 for even palindromes or 2 for odd
 	cin >> s;
@@ -26,7 +26,7 @@ int main() {
 		r++;
 	}
 	if (notBroken)
-		while (r < Size) {  // composed odd and even palindromes check
+		while (r < Size) {  // combined odd and even palindromes check
 			if (checkSym(l, r))  // odd palindromes, distance between 'l' and 'r' == 2
 				break;
 			l++;
