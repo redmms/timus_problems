@@ -26,10 +26,10 @@ int main() {
 		}
 		while (r < strsize) {  // composed odd and even palindromes check
 			if (checkSym(l, r))  // odd palindromes, distance between 'l' and 'r' == 2
-				break;
+				return;
 			l++;
 			if (checkSym(l, r))  // even palindromes, distance == 1
-				break;
+				return;
 			r++;
 		}
 	}();
