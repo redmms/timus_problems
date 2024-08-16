@@ -1,4 +1,4 @@
-### Way №1 (I suggested first)
+### Way №1 (I suggested first, extra dot to turn off MD lists)
 
 1.. Item 1  
 2.. Item 2  
@@ -62,23 +62,23 @@ alert(message);
     alert(message);</code></pre>
 </ul>
 
-### Way №4 (also possible)
+### Way №4 (possible theoretically, not working correctly)
 
 1. Item 1  
 2. Item 2  
 3. Item 3  
-$\hspace{10pt}$ 3.1 Item 3a  
-$\hspace{10pt}$ 3.2 Item 3b
+$\hspace{1cm}$ 3.1 Item 3a  
+$\hspace{1cm}$ 3.2 Item 3b
 ```
 let message = 'Hello world';
 alert(message);
 ```  
-$\hspace{5pt}$ 3.2.1 Item 3ba  
+$\hspace{2cm}$ 3.2.1 Item 3ba  
 ```
 let message = 'Hello world';
 alert(message);
 ```
-$\hspace{10pt}$ 3.3 Item 3c     
+$\hspace{1cm}$ 3.3 Item 3c     
 ```
 let message = 'Hello world';
 alert(message);
