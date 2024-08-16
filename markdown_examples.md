@@ -50,16 +50,16 @@ alert(message);
 <ul>
 3.1 Item 3a <br>
 3.2 Item 3b <br>
-    <div><pre><code>let message = 'Hello world';
-    alert(message);</code></pre></div>
+    <pre><code>let message = 'Hello world';
+    alert(message);</code></pre>
 <ul>
 3.2.1 Item 3ba <br>
-    <div><pre><code>let message = 'Hello world';
-    alert(message);</code></pre></div>
+    <pre><code>let message = 'Hello world';
+    alert(message);</code></pre>
 </ul>
 3.3 Item 3c <br>   
-    <div><pre><code>let message = 'Hello world';
-    alert(message);</code></pre></div>
+    <pre><code>let message = 'Hello world';
+    alert(message);</code></pre>
 </ul>
 
 ### Way №4 (also possible)
@@ -73,7 +73,7 @@ $\hspace{1cm}$ 3.2 Item 3b
 let message = 'Hello world';
 alert(message);
 ```  
-$\hspace$$\hspace$ 3.2.1 Item 3ba  
+$\hspace{2cm}$ 3.2.1 Item 3ba  
 ```
 let message = 'Hello world';
 alert(message);
