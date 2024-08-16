@@ -1,8 +1,8 @@
 ### Way №1 (I suggested first, extra dots to turn off MD lists)
 
-1.. Item 1  
-2.. Item 2  
-3.. Item 3  
+1 Item 1  
+2 Item 2  
+3 Item 3  
 3.1 Item 3a  
 3.2 Item 3b  
 ```
@@ -14,7 +14,7 @@ alert(message);
 let message = 'Hello world';
 alert(message);
 ```
-4.. Item 3c  
+4 Item 3c  
 ```
 let message = 'Hello world';
 alert(message);
@@ -50,16 +50,16 @@ alert(message);
 <ul>
 3.1 Item 3a <br>
 3.2 Item 3b <br>
-    <pre><code>let message = 'Hello world';
-    alert(message);</code></pre>
+<pre><code>let message = 'Hello world';
+alert(message);</code></pre>
 <ul>
 3.2.1 Item 3ba <br>
-    <pre><code>let message = 'Hello world';
-    alert(message);</code></pre>
+<pre><code>let message = 'Hello world';
+alert(message);</code></pre>
 </ul>
 3.3 Item 3c <br>   
-    <pre><code>let message = 'Hello world';
-    alert(message);</code></pre>
+<pre><code>let message = 'Hello world';
+alert(message);</code></pre>
 </ul>
 
 ### Way №4 (possible theoretically, not working correctly)
