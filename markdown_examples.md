@@ -73,7 +73,7 @@ $\hspace{1cm}$ 3.2 Item 3b
 let message = 'Hello world';
 alert(message);
 ```  
-$\hspace{2cm}$ 3.2.1 Item 3ba  
+$\hspace{1cm}$$\hspace{1cm}$ 3.2.1 Item 3ba  
 ```
 let message = 'Hello world';
 alert(message);
