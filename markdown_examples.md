@@ -1,4 +1,4 @@
-### Way №1 (I suggested first, extra dots to turn off MD lists)
+### Way №1 (I suggested first, dots after digits will turn on MD lists, it would look terrible)
 
 1 Item 1  
 2 Item 2  
