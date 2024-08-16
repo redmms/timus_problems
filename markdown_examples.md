@@ -67,18 +67,18 @@ alert(message);
 1. Item 1  
 2. Item 2  
 3. Item 3  
-$\hspace{1cm}$ 3.1 Item 3a  
-$\hspace{1cm}$ 3.2 Item 3b
+$\hspace{5pt}$ 3.1 Item 3a  
+$\hspace{5pt}$ 3.2 Item 3b
 ```
 let message = 'Hello world';
 alert(message);
 ```  
-$\hspace{1cm}$$\hspace{1cm}$ 3.2.1 Item 3ba  
+$\hspace{10pt}$ 3.2.1 Item 3ba  
 ```
 let message = 'Hello world';
 alert(message);
 ```
-$\hspace{1cm}$ 3.3 Item 3c     
+$\hspace{5pt}$ 3.3 Item 3c     
 ```
 let message = 'Hello world';
 alert(message);
