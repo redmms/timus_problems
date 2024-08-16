@@ -1,7 +1,7 @@
 ### Way №1 (I suggested first)
 
-1.. Item 1
-2.. Item 2
+1.. Item 1  
+2.. Item 2  
 3.. Item 3  
 3.1 Item 3a  
 3.2 Item 3b  
@@ -50,16 +50,16 @@ alert(message);
 <ul>
 3.1 Item 3a <br>
 3.2 Item 3b <br>
-    <ul><pre><code>let message = 'Hello world';
-    alert(message);</code></pre></ul>
+    <div><pre><code>let message = 'Hello world';
+    alert(message);</code></pre></div>
 <ul>
 3.2.1 Item 3ba <br>
-    <ul><pre><code>let message = 'Hello world';
-    alert(message);</code></pre></ul>
+    <div><pre><code>let message = 'Hello world';
+    alert(message);</code></pre></div>
 </ul>
 3.3 Item 3c <br>   
-    <ul><pre><code>let message = 'Hello world';
-    alert(message);</code></pre></ul>
+    <div><pre><code>let message = 'Hello world';
+    alert(message);</code></pre></div>
 </ul>
 
 ### Way №4 (also possible)
@@ -73,7 +73,7 @@ $\hspace{1cm}$ 3.2 Item 3b
 let message = 'Hello world';
 alert(message);
 ```  
-$\hspace{2cm}$ 3.2.1 Item 3ba  
+$\hspace$$\hspace$ 3.2.1 Item 3ba  
 ```
 let message = 'Hello world';
 alert(message);
