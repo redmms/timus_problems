@@ -51,16 +51,22 @@ alert(message);
 <ul>
 3.1 Item 3a <br>
 3.2 Item 3b <br>
-    <pre><code>let message = 'Hello world';
-    alert(message);</code></pre>
+<pre><code>
+    let message = 'Hello world';
+    alert(message);
+</code></pre>
 <ul>
 3.2.1 Item 3ba <br>
-    <pre><code>let message = 'Hello world';
-    alert(message);</code></pre>
+<pre><code>
+    let message = 'Hello world';
+    alert(message);
+</code></pre>
 </ul>
 3.3 Item 3c <br>   
-    <pre><code>let message = 'Hello world';
-    alert(message);</code></pre>
+<pre><code>
+    let message = 'Hello world';
+    alert(message);
+</code></pre>
 </ul>
 
 ### Way №4 (also possible)
@@ -69,20 +75,23 @@ alert(message);
 2. Item 2  
 3. Item 3  
 $\hspace{1cm}$ 3.1 Item 3a  
-$\hspace{1cm}$ 3.2 Item 3b  
+$\hspace{1cm}$ 3.2 Item 3b
+$\hspace{1cm}$
 ```
-\hspace{1cm}$ let message = 'Hello world';
-\hspace{1cm}$ alert(message);
+let message = 'Hello world';
+alert(message);
 ```  
 $\hspace{2cm}$ 3.2.1 Item 3ba  
+$\hspace{2cm}$
 ```
-$\hspace{2cm}$ let message = 'Hello world';
-$\hspace{2cm}$ alert(message);
+let message = 'Hello world';
+alert(message);
 ```
 $\hspace{1cm}$ 3.3 Item 3c     
+$\hspace{1cm}$
 ```
-$\hspace{1cm}$ let message = 'Hello world';
-$\hspace{1cm}$ alert(message);
+let message = 'Hello world';
+alert(message);
 ```
 
 
